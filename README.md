@@ -34,6 +34,8 @@
   - create customer
   - add products to cart
   - call checkout to print receipt
+## Example Output 
+![alt text](Imgs/image.png)
 
 ## How To Run
 
@@ -45,3 +47,4 @@
 javac com/ecom/*.java
 java com.ecom.Main
 ```
+
