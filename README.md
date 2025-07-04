@@ -34,12 +34,11 @@
   - create customer
   - add products to cart
   - call checkout to print receipt
+  
 ## Example Output 
 ![alt text](Imgs/image.png)
 
 ## How To Run
-
-- Put all files in one folder.
 - Go to the folder in terminal.
 - Compile and run like this:
 
